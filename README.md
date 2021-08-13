@@ -1,2 +1,2 @@
 # xo
-XO game
+XO game with the help of tkinter
