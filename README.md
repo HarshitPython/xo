@@ -1,2 +1,2 @@
 # xo
-XO game with the help of tkinter.
+Tic Tac Toe game with the help of tkinter.
